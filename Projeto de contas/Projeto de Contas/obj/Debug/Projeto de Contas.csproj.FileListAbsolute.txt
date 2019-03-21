@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\bin\Debug\Projeto de Contas.exe.config
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\bin\Debug\Projeto de Contas.exe
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\bin\Debug\Projeto de Contas.pdb
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\obj\Debug\Projeto de Contas.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\obj\Debug\Projeto_de_Contas.Form1.resources
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\obj\Debug\Projeto_de_Contas.Properties.Resources.resources
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\obj\Debug\Projeto de Contas.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\obj\Debug\Projeto de Contas.exe
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\obj\Debug\Projeto de Contas.pdb
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\bin\Debug\db_contas.mdf
+C:\Users\User\Desktop\Projeto de contas\Projeto de Contas\Projeto de Contas\bin\Debug\db_contas_log.ldf
